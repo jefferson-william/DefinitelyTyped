@@ -3,7 +3,7 @@
 // Definitions by: Diego Vilar <http://github.com/diegovilar>, Georgii Dolzhykov <http://github.com/thorn0>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
-/// <reference types="jquery" />
+/// <reference path="../jquery/index.d.ts" types="jquery" />
 
 declare var angular: angular.IAngularStatic;
 

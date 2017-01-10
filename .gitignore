@@ -35,6 +35,7 @@ _infrastructure/tests/build
 
 node_modules
 
+*.sublime-*
 .sublimets
 .settings/launch.json
 
